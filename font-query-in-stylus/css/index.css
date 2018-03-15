@@ -1,0 +1,319 @@
+.font-6-10 {
+  font-size: 10px;
+}
+.font-6-11 {
+  font-size: 11px;
+}
+.font-6-12 {
+  font-size: 12px;
+}
+.font-6-14 {
+  font-size: 14px;
+}
+.font-6-16 {
+  font-size: 16px;
+}
+.font-6-18 {
+  font-size: 18px;
+}
+.font-6-20 {
+  font-size: 20px;
+}
+@media screen and (min-width: 320px) {
+  .font-6-10 {
+    font-size: 8.533333333333333px;
+  }
+  .font-6-11 {
+    font-size: 9.386666666666667px;
+  }
+  .font-6-12 {
+    font-size: 10.24px;
+  }
+  .font-6-14 {
+    font-size: 11.946666666666667px;
+  }
+  .font-6-16 {
+    font-size: 13.653333333333334px;
+  }
+  .font-6-18 {
+    font-size: 15.360000000000001px;
+  }
+  .font-6-20 {
+    font-size: 17.066666666666666px;
+  }
+}
+@media screen and (min-width: 360px) {
+  .font-6-10 {
+    font-size: 10px;
+  }
+  .font-6-11 {
+    font-size: 11px;
+  }
+  .font-6-12 {
+    font-size: 12px;
+  }
+  .font-6-14 {
+    font-size: 14px;
+  }
+  .font-6-16 {
+    font-size: 16px;
+  }
+  .font-6-18 {
+    font-size: 18px;
+  }
+  .font-6-20 {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 375px) {
+  .font-6-10 {
+    font-size: 10px;
+  }
+  .font-6-11 {
+    font-size: 11px;
+  }
+  .font-6-12 {
+    font-size: 12px;
+  }
+  .font-6-14 {
+    font-size: 14px;
+  }
+  .font-6-16 {
+    font-size: 16px;
+  }
+  .font-6-18 {
+    font-size: 18px;
+  }
+  .font-6-20 {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 414px) {
+  .font-6-10 {
+    font-size: 11.040000000000001px;
+  }
+  .font-6-11 {
+    font-size: 12.144000000000002px;
+  }
+  .font-6-12 {
+    font-size: 13.248000000000001px;
+  }
+  .font-6-14 {
+    font-size: 15.456000000000001px;
+  }
+  .font-6-16 {
+    font-size: 17.664px;
+  }
+  .font-6-18 {
+    font-size: 19.872px;
+  }
+  .font-6-20 {
+    font-size: 22.080000000000002px;
+  }
+}
+@media screen and (min-width: 450px) {
+  .font-6-10 {
+    font-size: 12px;
+  }
+  .font-6-11 {
+    font-size: 13.2px;
+  }
+  .font-6-12 {
+    font-size: 14.399999999999999px;
+  }
+  .font-6-14 {
+    font-size: 16.8px;
+  }
+  .font-6-16 {
+    font-size: 19.2px;
+  }
+  .font-6-18 {
+    font-size: 21.599999999999998px;
+  }
+  .font-6-20 {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width: 480px) {
+  .font-6-10 {
+    font-size: 12.8px;
+  }
+  .font-6-11 {
+    font-size: 14.08px;
+  }
+  .font-6-12 {
+    font-size: 15.36px;
+  }
+  .font-6-14 {
+    font-size: 17.92px;
+  }
+  .font-6-16 {
+    font-size: 20.48px;
+  }
+  .font-6-18 {
+    font-size: 23.04px;
+  }
+  .font-6-20 {
+    font-size: 25.6px;
+  }
+}
+@media screen and (min-width: 640px) {
+  .font-6-10 {
+    font-size: 17.066666666666666px;
+  }
+  .font-6-11 {
+    font-size: 18.773333333333333px;
+  }
+  .font-6-12 {
+    font-size: 20.48px;
+  }
+  .font-6-14 {
+    font-size: 23.893333333333334px;
+  }
+  .font-6-16 {
+    font-size: 27.30666666666667px;
+  }
+  .font-6-18 {
+    font-size: 30.720000000000002px;
+  }
+  .font-6-20 {
+    font-size: 34.13333333333333px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .font-6-10 {
+    font-size: 20.48px;
+  }
+  .font-6-11 {
+    font-size: 22.528px;
+  }
+  .font-6-12 {
+    font-size: 24.576px;
+  }
+  .font-6-14 {
+    font-size: 28.672px;
+  }
+  .font-6-16 {
+    font-size: 32.768px;
+  }
+  .font-6-18 {
+    font-size: 36.864000000000004px;
+  }
+  .font-6-20 {
+    font-size: 40.96px;
+  }
+}
+@media screen and (min-width: 800px) {
+  .font-6-10 {
+    font-size: 21.333333333333332px;
+  }
+  .font-6-11 {
+    font-size: 23.466666666666665px;
+  }
+  .font-6-12 {
+    font-size: 25.6px;
+  }
+  .font-6-14 {
+    font-size: 29.866666666666667px;
+  }
+  .font-6-16 {
+    font-size: 34.13333333333333px;
+  }
+  .font-6-18 {
+    font-size: 38.4px;
+  }
+  .font-6-20 {
+    font-size: 42.666666666666664px;
+  }
+}
+@media screen and (min-width: 950px) {
+  .font-6-10 {
+    font-size: 25.333333333333332px;
+  }
+  .font-6-11 {
+    font-size: 27.866666666666667px;
+  }
+  .font-6-12 {
+    font-size: 30.4px;
+  }
+  .font-6-14 {
+    font-size: 35.46666666666667px;
+  }
+  .font-6-16 {
+    font-size: 40.53333333333333px;
+  }
+  .font-6-18 {
+    font-size: 45.599999999999994px;
+  }
+  .font-6-20 {
+    font-size: 50.666666666666664px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .font-6-10 {
+    font-size: 32px;
+  }
+  .font-6-11 {
+    font-size: 35.2px;
+  }
+  .font-6-12 {
+    font-size: 38.400000000000006px;
+  }
+  .font-6-14 {
+    font-size: 44.800000000000004px;
+  }
+  .font-6-16 {
+    font-size: 51.2px;
+  }
+  .font-6-18 {
+    font-size: 57.6px;
+  }
+  .font-6-20 {
+    font-size: 64px;
+  }
+}
+@media screen and (min-width: 1680px) {
+  .font-6-10 {
+    font-size: 44.800000000000004px;
+  }
+  .font-6-11 {
+    font-size: 49.28px;
+  }
+  .font-6-12 {
+    font-size: 53.760000000000005px;
+  }
+  .font-6-14 {
+    font-size: 62.720000000000006px;
+  }
+  .font-6-16 {
+    font-size: 71.68px;
+  }
+  .font-6-18 {
+    font-size: 80.64000000000001px;
+  }
+  .font-6-20 {
+    font-size: 89.60000000000001px;
+  }
+}
+div {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div:nth-child(2n-1) {
+  background: #e9e9e9;
+}
+div.d_1 {
+  height: 6rem;
+}
+div.d_2 {
+  height: 8rem;
+}
+div.d_3 {
+  height: 10rem;
+}
+div.d_4 {
+  height: 12rem;
+}
