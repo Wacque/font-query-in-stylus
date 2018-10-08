@@ -1,0 +1,20 @@
+@import './font.styl'
+
+font-6(10px,11px,12px,14px,16px,18px,20px)   // 调用在font.styl中定义的font-6()方法，传入不少于1个参数，参数为在iphone6下需要使用的字号
+
+div
+	width: 80%
+	margin: auto
+	display: flex
+	justify-content: center
+	align-items: center
+	&:nth-child(2n-1)
+		background: rgb(233,233,233)
+	&.d_1
+		height: 6rem
+	&.d_2
+		height: 8rem
+	&.d_3
+		height: 10rem
+	&.d_4
+		height: 12rem
